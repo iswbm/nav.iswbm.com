@@ -1,7 +1,7 @@
 baseURL               = "https://nav.iswbm.com/"
 languageCode          = "zh-CN"
 title                 = "明哥导航"
-theme                 = ""
+#theme                 = ""
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
