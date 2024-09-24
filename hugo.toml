@@ -1,7 +1,7 @@
 baseURL               = "https://nav.iswbm.com/"
 languageCode          = "zh-CN"
 title                 = "明哥导航"
-theme                 = "WebStack-Hugo"
+theme                 = ""
 preserveTaxonomyNames = true
 disablePathToLower    = true
 hasCJKLanguage        = true
@@ -33,7 +33,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = ""
 
 [params.images]
-    favicon           = "assets/images/bi-favicon.png"
+    favicon           = "assets/images/favicon.ico"
     searchImageL      = "assets/images/bg-light.png"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dark.png"		# 搜索部分深色背景图
     logoExpandLight   = "assets/images/bi-expand-dark.png"
