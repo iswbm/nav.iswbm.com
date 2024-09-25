@@ -177,6 +177,10 @@
   list:
     - term: 在线影视
       links:
+        - title: 555影视
+          logo: 555.png
+          url: https://555ryz.com/
+          description: 每天更新欧美日韩剧
         - title: 搜片
           logo: 搜片.png
           url: https://soupian.pro/
