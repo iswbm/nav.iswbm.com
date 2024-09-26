@@ -13,7 +13,7 @@ publishDir            = "public"				# 站点静态文件保存目录
     description   = "明哥导航 | 给好工具一个家"
 #    upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
 #    about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/iswbm/nav.iswbm.com"  
+    repository    = "https://github.com/iswbm/nav.iswbm.com"
     enablePreLoad = false					# 网站完全打开前预加载动画
     textPreLoad   = "正在极速加载中"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false					# 默认展开左侧边导航栏
@@ -22,25 +22,25 @@ publishDir            = "public"				# 站点静态文件保存目录
     nightMode     = false					# 默认站点为深色(夜间)模式
     yiyan         = true                         		# 默认启用一言服务
 
-[params.seo]    
+[params.seo]
     baiduhmid       = 'efccc04cb44fc49faddac5876180b369'	# 百度统计 hm.src 的 ID
     baiduSiteVer    = 'codeva-cCAOSG8MBO'			# 百度HTML标签验证(baidu-site-verification)
     tj51laid        = ''                        		# 51.LA 网站统计
     tj51lack        = ''
-    GoogleAdsClient = ''					# Google AdSense 
+    GoogleAdsClient = ''					# Google AdSense
 
 [params.qweather]
     key = ""
 
 [params.images]
-    favicon           = "assets/images/favicon.ico"
+    favicon           = "assets/images/favicon.svg"
     searchImageL      = "assets/images/bg-light.png"		# 搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dark.png"		# 搜索部分深色背景图
-    logoExpandLight   = "assets/images/bi-expand-dark.png"
-    logoExpandDark    = "assets/images/bi-expand-light.png"
+    logoExpandLight   = "assets/images/mg-expand-light.png"
+    logoExpandDark    = "assets/images/mg-expand-dark.png"
     logoCollapseLight = "assets/images/iswbm.png"
     logoCollapseDark  = "assets/images/iswbm.png"
-    
+
 [markup.goldmark.renderer]
     unsafe = true
 

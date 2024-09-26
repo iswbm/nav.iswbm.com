@@ -1,6 +1,6 @@
 ---
 
-- taxonomy: 周刊杂志
+- taxonomy: 日常高频
   icon: fas fa-pencil-alt fa-lg
   list:
     - term: 周刊杂志
@@ -25,6 +25,12 @@
           logo: 二丫讲梵的学习周刊.png
           url: https://wiki.eryajf.net/weekly/
           description: 运维技术与Go语言周边为主
+    - term: 效率工具
+      links:
+        - title: Cubox
+          logo: cubox.ico
+          url: https://cubox.pro/my/inbox
+          description: 收藏夹/稍后读
 
 - taxonomy: 在线资源
   icon: far fa-star
@@ -293,7 +299,7 @@
           url: https://app.diagrams.net/
           description: 在线脑图
         - title: KeepScreenOn
-          logo: 语雀.webp
+          logo: keep-scren-on.ico
           url: https://www.keepscreenon.com/?utm_source=appinn.com
           description: 使屏幕保活常亮
         - title: 草料二维码
@@ -304,4 +310,24 @@
           logo: urlify.png
           url: https://urlify.cn/
           description: 用于生成短网址
+        - title: Favicon Extractor
+          logo: qinglm.ico
+          url: https://gonglue.qinggl.com/app/img/icon.jsp
+          description: 用于提取网站的图标
+        - title: 在线思维导图
+          logo: online-mind-map.ico
+          url: https://wanglin2.github.io/mind-map/#/
+          description: 免登陆注册的在线思维导图
+        - title: Logo Surf
+          logo: logo-surf.png
+          url: https://www.logo.surf/#generate-favicon
+          description: 在线制作文字 LOGO
+        - title: 图小小
+          logo: small-im.svg
+          url: https://small.im/
+          description: 开源的图片压缩工具
+        - title: Remove BG
+          logo: remove-bg.ico
+          url: https://www.remove.bg/zh
+          description: AI在线抠图工具
 
