@@ -9,6 +9,10 @@
           logo: 科技爱好者周刊.ico
           url: https://www.ruanyifeng.com/blog/
           description: 【周五】阮一峰的网络日志
+        - title: HelloGitHub 月刊
+          logo: hello-github.png
+          url: https://hellogithub.com/periodical
+          description: 【月末】分享 GitHub 上有趣、入门级的开源项目
         - title: Python潮流周刊
           logo: Python潮流周刊.svg
           url: https://pythoncat.top/archive
@@ -65,13 +69,22 @@
       links:
         - title: 帅地面试大全
           url: https://www.iamshuaidi.com/
-          description: 最好用的 Markdown 排版工具
+        - title: Web前端面试
+          url: https://vue3js.cn/interview/
+        - title: 算法动态演示（中文）
+          url: https://visualgo.net/zh
+        - title: 算法动态演示（英文）
+          url: https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 
 - taxonomy: 资源搜索
   icon: far fa-folder-open fa-lg
   list:
     - term: 综合搜索
       links:
+        - title: 盘搜搜
+          logo: icloudnative.ico
+          url: https://pansou.icloudnative.io/
+          description: 云原生实验室出品
         - title: 云易搜
           logo: 云易搜.png
           url: https://www.yun1sou.com/
@@ -166,6 +179,40 @@
           logo: 小众软件.png
           url: https://love.appinn.com/
           description: 喜欢的软件
+        - title: 微当下载
+          logo: wei-dang.ico
+          url: https://www.weidown.com/
+          description: 精品软件，一网打尽
+    - term: IDEA破解
+      links:
+        - title: 蜻蜓工具激活码
+          logo: qing-ting.ico
+          url: https://33tool.com/idea/
+          description: 免费好用
+        - title: Ajhuo激活码
+          url: https://www.ajihuo.com/web/4188.html
+          description: 需要关注
+        - title: 在线激活
+          url: https://3.jetbra.in/
+          description: 免费，可能不太稳定
+    - term: 扩展插件
+      links:
+        - title: Chrome WebStore
+          logo: google-chrome.ico
+          url: https://chromewebstore.google.com/
+          description: 谷歌插件商店
+        - title: Greasy Fork
+          logo: greasyfork.png
+          url: https://greasyfork.org/zh-CN/scripts
+          description: 油猴脚本社区
+        - title: Crx搜搜
+          logo: crxsoso.png
+          url: https://www.crxsoso.com/
+          description: CRX离线下载
+        - title: 银河录像局
+          logo: 银河录像局.png
+          url: https://nf.video
+          description: GPT/奈飞等帐号购买
     - term: 镜像搜索
       links:
         - title: CentOS Vault
@@ -249,6 +296,10 @@
           logo: 开发者武器库.png
           url: https://devtool.tech/
           description: 属于程序员的工具库
+        - title: 蜻蜓工具
+          logo: qing-ting.ico
+          url: https://33tool.com/
+          description: 好用免费的开发者工具站
         - title: curlconverter
           logo: curl-converter.png
           url: https://curlconverter.com
@@ -264,10 +315,10 @@
           logo: transform.png
           url: https://transform.tools
           description: JSON转化成代码
-        - title: 查询子域名
-          logo: 语雀.webp
-          url: https://api.subdomain.center/?domain=iswbm.com
-          description: 查询某域名下的子域名
+        - title: User-Agent列表
+          logo: ua-list.ico
+          url: https://www.pdflibr.com/ua/
+          description: 最全的 UA 大全
     - term: 临时帐号
       links:
         - title: 10分钟邮箱
@@ -284,6 +335,31 @@
         - title: 身份证号码查询
           url: https://mid.weixingmap.com/
           description: 身份证号码查询
+    - term: 设计工具
+      links:
+        - title: Excalidraw
+          logo: excalidraw.png
+          url: https://excalidraw.com/
+        - title: ColorDrop
+          logo: color-drop.png
+          url: https://colordrop.io/
+          description: 绝佳四色配色参考
+        - title: Logo Surf
+          logo: logo-surf.png
+          url: https://www.logo.surf/#generate-favicon
+          description: 在线制作文字 LOGO
+        - title: Remove BG
+          logo: remove-bg.ico
+          url: https://www.remove.bg/zh
+          description: AI在线抠图工具
+        - title: Remove Unwanted
+          logo: remove-unwanted.ico
+          url: https://theinpaint.com/?move
+          description: 在线擦除不想要的背景
+        - title: CSS标准颜色参考表
+          logo: css-color.png
+          url: http://www.zhongguosou.com/computer_question_tools/color_standard_web.html
+          description: 标准颜色参考图例
     - term: 在线工具
       links:
         - title: AutoDraw
@@ -318,16 +394,29 @@
           logo: online-mind-map.ico
           url: https://wanglin2.github.io/mind-map/#/
           description: 免登陆注册的在线思维导图
-        - title: Logo Surf
-          logo: logo-surf.png
-          url: https://www.logo.surf/#generate-favicon
-          description: 在线制作文字 LOGO
         - title: 图小小
           logo: small-im.svg
           url: https://small.im/
           description: 开源的图片压缩工具
-        - title: Remove BG
-          logo: remove-bg.ico
-          url: https://www.remove.bg/zh
-          description: AI在线抠图工具
-
+        - title: 在线格式工厂
+          logo: 在线文档转换.ico
+          url: https://www.aconvert.com/cn/
+          description: 文档/图像/音视频都能转换
+        - title: 在线截图生成
+          logo: 在线截图生成.ico
+          url: https://icloudnative.io/jstc/
+          description: 微信/支付宝/QQ转帐零钱截图
+    - term: 运营工具
+      links:
+        - title: OpenWrite
+          logo: openwrite.ico
+          url: https://openwrite.cn/
+          description: 【付费】技术自媒体群发工具
+        - title: WeChatSync
+          logo: wechat-sync.ico
+          url: https://www.wechatsync.com/
+          description: 【免费】开源免费的同步助手
+        - title: 次幂数据
+          logo: cimi-data.png
+          url: https://www.cimidata.com/
+          description: 【付费】微信文章分析工具
