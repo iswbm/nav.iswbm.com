@@ -3,8 +3,12 @@
 - taxonomy: 日常高频
   icon: fas fa-pencil-alt fa-lg
   list:
-    - term: 周刊杂志
+    - term: 阅读清单
       links:
+        - title: 生财有术风向标
+          logo: 生财有术.ico
+          url: https://scys.com/opportunity
+          description: 【每天】嗅探每一次赚钱的机会
         - title: 科技爱好者周刊
           logo: 科技爱好者周刊.ico
           url: https://www.ruanyifeng.com/blog/
@@ -31,10 +35,21 @@
           description: 运维技术与Go语言周边为主
     - term: 效率工具
       links:
+        - title: 滴答清单
+          logo: dida.ico
+          url: https://dida365.com/
         - title: Cubox
           logo: cubox.ico
           url: https://cubox.pro/my/inbox
           description: 收藏夹/稍后读
+        - title: Flomo
+          logo: flomo.png
+          url: https://flomoapp.com/
+          description: 快速记录笔记
+        - title: Effie
+          logo: effie.ico
+          url: https://www.effie.co/
+          description: 沉浸式创作
 
 - taxonomy: 在线资源
   icon: far fa-star
@@ -228,6 +243,12 @@
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
+    - term: 资源搜索
+      links:
+        - title: 资源搜索01
+          url: http://z.kkkob.com/app/
+        - title: 资源搜索02
+          url: http://transition.vipray.cn/index.php?m=vod-search
     - term: 在线影视
       links:
         - title: 555影视
